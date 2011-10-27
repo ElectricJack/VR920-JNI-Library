@@ -6,7 +6,6 @@
  * the SWIG interface file instead.
  * ----------------------------------------------------------------------------- */
 
-package net.minecraft.client;
 
 public class VR920 {
   private long swigCPtr;

@@ -6,7 +6,6 @@
  * the SWIG interface file instead.
  * ----------------------------------------------------------------------------- */
 
-package net.minecraft.client;
 
 class ModVR920JNI {
   public final static native long new_VR920();
